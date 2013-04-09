@@ -96,6 +96,7 @@ function convert(fileName, contents) {
                              //since it is already implied by the jqueryui
                              //name
                              .replace(/\.ui\./, '.')
+                             .replace(/\.effects\./, '.')
                              .replace(/^jquery\./, '')
                              //Convert to module name.
                              .replace(dotRegExp, '/') +
