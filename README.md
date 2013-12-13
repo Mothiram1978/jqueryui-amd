@@ -21,7 +21,7 @@ It is assumed a full source directory of jQuery UI is given to the conversion
 script. So, the directory should have a **ui** directory inside of it with the
 .js files for jQuery UI.
 
-The script will a `jqueryui` directory that lives inside the directory given to
+The script will create a `jqueryui` directory that lives inside the directory given to
 the conversion script. The AMD modules will be inside the `jqueryui` directory.
 
 Taking the example above, the **path/to/jqueryui-version**
