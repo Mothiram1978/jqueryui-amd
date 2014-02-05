@@ -3,6 +3,11 @@
     "version": "0.0.2",
     "homepage": "http://github.com/jrburke/jqueryui-amd",
     "author": "James Burke <jrburke@gmail.com> (http://github.com/jrburke)",
+    "description": "A conversion script for translating jQuery UI files into AMD JavaScript modules.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jrburke/jqueryui-amd.git"
+    },
     "licenses": [
         {
             "type": "BSD",
@@ -20,6 +25,4 @@
     "engines": {
         "node": ">=0.6.0"
     }
-
-
 }
