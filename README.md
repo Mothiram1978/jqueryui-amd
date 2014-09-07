@@ -1,5 +1,7 @@
 # jqueryui-amd
 
+##NOTE: jQuery UI supports AMD modules on its own now, this approach is now not necessary and it is out of date. Avoid using it.
+
 A conversion script for translating [jQuery UI](http://jqueryui.com/) files into
 [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) JavaScript modules.
 
